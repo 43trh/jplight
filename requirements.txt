@@ -57,8 +57,8 @@ ipywidgets_bokeh
 bokeh
 tributary
 jupyterlab_commands
-jupyterlab-autoplay
+#jupyterlab-autoplay
 lckr-jupyterlab-variableinspector
 jupyterlab_widgets
-jupyter_contrib_nbextensions
+#jupyter_contrib_nbextensions
 jupyterlab-execute-time
