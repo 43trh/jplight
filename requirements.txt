@@ -62,4 +62,4 @@ jupyterlab_widgets
 jupyter_contrib_nbextensions
 jupyterlab-execute-time
 ipyflow
-
+marimo[recommended]
