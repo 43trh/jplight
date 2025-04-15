@@ -15,7 +15,7 @@ jupyterlite-javascript-kernel==0.3.0
 #jupyterlab-language-pack-zh-CN
 
 # P5 kernel (optional)
-jupyterlite-p5-kernel==0.1.0
+#jupyterlite-p5-kernel==0.1.0
 
 # JupyterLab: Fasta file renderer (optional)
 #jupyterlab-fasta>=3.3.0,<4
@@ -46,20 +46,19 @@ bqplot
 
 # kayone's extensions
 jupyterlab-visualpython
-ipydatagrid
-ipylab
+#ipydatagrid
+#ipylab
 jupyterlab-filesystem-access
-jupyterlab-kernelspy
-ipydatagrid
+#jupyterlab-kernelspy
 jupyterlab-github
-jupyter_bokeh
-ipywidgets_bokeh
+#jupyter_bokeh
+#ipywidgets_bokeh
 bokeh
-tributary
-jupyterlab_commands
-lckr-jupyterlab-variableinspector
+#tributary
+#jupyterlab_commands
+#lckr-jupyterlab-variableinspector
 jupyterlab_widgets
-jupyter_contrib_nbextensions
-jupyterlab-execute-time
-ipyflow
-marimo[recommended]
+#jupyter_contrib_nbextensions
+#jupyterlab-execute-time
+#ipyflow
+#marimo[recommended]
