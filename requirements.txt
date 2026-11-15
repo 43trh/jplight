@@ -37,7 +37,7 @@ jupyterlab-night
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.3,<9
 # Python: ipyevents library for Jupyter notebooks (optional)
-#ipyevents>=2.0.1
+ipyevents>=2.0.1
 # Python: interative Matplotlib library for Jupyter notebooks (optional)
 ipympl>=0.8.2
 # Python: ipycanvas library for Jupyter notebooks (optional)
@@ -48,22 +48,22 @@ ipympl>=0.8.2
 # Python: plotting libraries (optional)
 plotly>=6,<7
 #plotly>=5,<6 #old but tested
-bqplot
+#bqplot
 
 # kayone's extensions
-bokeh
+jupyterlab-filesystem-access
+#bokeh
 #jupyterlab-visualpython
 #ipydatagrid
 #ipylab
-jupyterlab-filesystem-access
 #jupyterlab-kernelspy
-jupyterlab-github
+#jupyterlab-github
 #jupyter_bokeh
 #ipywidgets_bokeh
 #tributary
 #jupyterlab_commands
 #lckr-jupyterlab-variableinspector
-jupyterlab_widgets
+#jupyterlab_widgets
 #jupyter_contrib_nbextensions
 #jupyterlab-execute-time
 #ipyflow
