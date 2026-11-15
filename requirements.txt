@@ -1,12 +1,16 @@
 # Core modules (mandatory)
-jupyterlite-core==0.7.1
-jupyterlab~=4.5.1
-notebook~=7.5.1 
+jupyterlite-core==0.8.0
+#jupyterlite-core==0.7.1 #old but tested
+jupyterlab~=4.6.0
+#jupyterlab~=4.5.1 #old but tested
+notebook~=7.6.0
+#notebook~=7.5.1 #old but tested
 
 
 
 # Python kernel (optional)
-jupyterlite-pyodide-kernel==0.7.0
+jupyterlite-pyodide-kernel==0.8.0
+#jupyterlite-pyodide-kernel==0.7.0 #old but tested
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.3.0
@@ -42,10 +46,12 @@ ipympl>=0.8.2
 #ipyleaflet
 
 # Python: plotting libraries (optional)
-plotly>=6,<7 # old plotly>=5,<6
+plotly>=6,<7
+#plotly>=5,<6 #old but tested
 bqplot
 
 # kayone's extensions
+bokeh
 #jupyterlab-visualpython
 #ipydatagrid
 #ipylab
@@ -54,7 +60,6 @@ jupyterlab-filesystem-access
 jupyterlab-github
 #jupyter_bokeh
 #ipywidgets_bokeh
-bokeh
 #tributary
 #jupyterlab_commands
 #lckr-jupyterlab-variableinspector
